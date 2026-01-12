@@ -10,6 +10,34 @@ Scan the QR code below to install the latest internal build on your device, or o
 
 Direct link: https://expo.dev/accounts/huynx27012003/projects/EngLishLearning-App/builds/151ecc95-452b-4568-98c4-712fb800b656
 
+## Cac chuc nang chinh
+
+Screenshots of the main experiences in the app:
+
+<div align="center">
+  <img src="assets/images/features/1.png" alt="Man hinh 1" width="200" />
+  <img src="assets/images/features/2.png" alt="Man hinh 2" width="200" />
+  <img src="assets/images/features/3.png" alt="Man hinh 3" width="200" />
+  <img src="assets/images/features/4.png" alt="Man hinh 4" width="200" />
+  <br />
+  <img src="assets/images/features/5.png" alt="Man hinh 5" width="200" />
+  <img src="assets/images/features/6.png" alt="Man hinh 6" width="200" />
+  <img src="assets/images/features/7.png" alt="Man hinh 7" width="200" />
+  <img src="assets/images/features/8.png" alt="Man hinh 8" width="200" />
+  <br />
+  <img src="assets/images/features/9.png" alt="Man hinh 9" width="200" />
+  <img src="assets/images/features/10.png" alt="Man hinh 10" width="200" />
+  <img src="assets/images/features/11.png" alt="Man hinh 11" width="200" />
+  <img src="assets/images/features/12.png" alt="Man hinh 12" width="200" />
+  <br />
+  <img src="assets/images/features/13.png" alt="Man hinh 13" width="200" />
+  <img src="assets/images/features/14.png" alt="Man hinh 14" width="200" />
+  <img src="assets/images/features/15.png" alt="Man hinh 15" width="200" />
+  <img src="assets/images/features/16.png" alt="Man hinh 16" width="200" />
+  <br />
+  <img src="assets/images/features/17.png" alt="Man hinh 17" width="200" />
+</div>
+
 ## Get started
 
 1. Install dependencies
