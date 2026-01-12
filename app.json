@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "Funlish",
+    "slug": "EngLishLearning-App",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/images/image-icon.png",
+    "scheme": "englishlearningapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ptit.englishlearning"
+    },
+    "android": {
+      "package": "com.ptit.englishlearning",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF",
+        "foregroundImage": "./assets/images/image-icon.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/image-loading.png",
+          "imageWidth": 260,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0e424398-c4e1-468a-b129-1ab4a00d7a3c"
+      }
+    }
+  }
+}
