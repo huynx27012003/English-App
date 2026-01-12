@@ -2,6 +2,14 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Install the app
+
+Scan the QR code below to install the latest internal build on your device, or open the direct link if you prefer to download manually.
+
+![English Learning App QR](assets/images/qrcode.png)
+
+Direct link: https://expo.dev/accounts/huynx27012003/projects/EngLishLearning-App/builds/151ecc95-452b-4568-98c4-712fb800b656
+
 ## Get started
 
 1. Install dependencies
